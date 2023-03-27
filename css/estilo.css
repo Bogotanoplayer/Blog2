@@ -1,0 +1,26 @@
+#Titulo{
+    color: aliceblue;
+    background-color: dodgerblue;
+    font-family: 'Franklin Gothic Medium';
+    padding: 10px;
+    -webkit-box-shadow: -8px 6px 112px 10px rgba(212,167,78,1);
+    -moz-box-shadow: -8px 6px 112px 10px rgba(212,167,78,1);
+    box-shadow: -8px 6px 112px 10px rgba(212,167,78,1);
+}
+#parrafo{
+    color: silver;
+    border-color: dodgerblue ;
+    font-family: 'Franklin Gothic Medium';
+    padding: 1px;
+    border: 200px;
+    background-color: beige;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    width: 900px;
+    margin-left: 450px;
+    -webkit-box-shadow: -8px 10px 72px 15px rgba(79,140,214,1);
+    -moz-box-shadow: -8px 10px 72px 15px rgba(79,140,214,1);
+    box-shadow: -8px 10px 72px 15px rgba(79,140,214,1);
+
+}
