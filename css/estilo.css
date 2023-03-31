@@ -24,3 +24,12 @@
     box-shadow: -8px 10px 72px 15px rgba(79,140,214,1);
 
 }
+#footer{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: grey;
+    padding: 0.5em;
+    width: 940px;
+    margin-left: 420px;
+}
