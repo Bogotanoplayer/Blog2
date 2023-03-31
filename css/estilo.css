@@ -1,4 +1,7 @@
 #Titulo{
+    background-image: url("../imagenes/fortnite_llama.jpg");
+    background-size: 100px;
+    background-repeat: no-repeat;
     color: aliceblue;
     background-color: dodgerblue;
     font-family: 'Franklin Gothic Medium';
@@ -23,4 +26,7 @@
     -moz-box-shadow: -8px 10px 72px 15px rgba(79,140,214,1);
     box-shadow: -8px 10px 72px 15px rgba(79,140,214,1);
 
+}
+#Titulo h1{
+  margin-left: 100px;
 }
